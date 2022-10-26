@@ -7,7 +7,7 @@
 - 💻  I’m currently exploring and developing apps and websites with **Android Studio and Front-end Frameworks**
 
 - 🤝 Always open to having fun collaborating on building **real world apps or Website**
-- 🌱 I’m currently learning openCV and video processing using pyCharm.
+<!-- - 🌱 I’m currently learning openCV and video processing using pyCharm. -->
 - 👩🏻 Pronouns **He / Him**
 - 📧 Reach me via You can reach me through my email address: himanshuraj.officials@gmail.com or message me in LinkedIn https://www.linkedin.com/in/himanshurajofficals/ 
 
@@ -30,15 +30,21 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 <h2 align="left">Most Used Languages:</h2>
+<div align="center">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshurajofficials&layout=compact&langs_count=6)](https://github.com/himanshurajofficials/github-readme-stats)
 
+</div>
 
 
  
 <h2 align="left">Social Links:</h2> 
-<a href="https://www.linkedin.com/in/himanshurajofficials/"> <img align="left" src="https://i0.wp.com/www.pmolearning.co.uk/wp-content/uploads/2019/08/linkedin-logo.png?ssl=1" height="40" width="180" alt="himanshurajofficials" /></a></p><br><br>
+<div align="center">
+<a href="https://www.linkedin.com/in/himanshurajofficials/"> <img align="center" src="https://i0.wp.com/www.pmolearning.co.uk/wp-content/uploads/2019/08/linkedin-logo.png?ssl=1" height="36" width="160" alt="himanshurajofficials" /></a>
+<a href="https://github.com/himanshurajofficials"> <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQduHwLUzYYcR7wU0OcFS2VSVDxIP8efho7Vg&usqp=CAU" height="36" width="160" alt="himanshurajofficials" /></a><br><br>
 
+</div>
 
 <h2 align="left"></h2> 
 
