@@ -7,8 +7,10 @@
 - 💻  I’m currently exploring and developing apps and websites with **Android Studio and Front-end Frameworks**
 
 - 🤝 Always open to having fun collaborating on building **real world apps or Website**
-<!-- - 🌱 I’m currently learning openCV and video processing using pyCharm. -->
+
 - 👩🏻 Pronouns **He / Him**
+
+- 🌈 Fun fact **I prefer Tab over space**
 - 📧 Reach me via You can reach me through my email address: himanshuraj.officials@gmail.com or message me in LinkedIn https://www.linkedin.com/in/himanshurajofficals/ 
 
 ## Skills: 
@@ -28,7 +30,6 @@
 * ![pyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 <h2 align="left">Most Used Languages:</h2>
 <div align="center">
 
@@ -49,3 +50,5 @@
 <h2 align="left"></h2> 
 
 ![Profile views](https://gpvc.arturio.dev/himanshurajofficials) 
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
