@@ -13,7 +13,13 @@
 - 👩🏻 Pronouns **He / Him**
 
 - 🌈 Fun fact **I prefer Tab over space**
-- 📧 Reach me via You can reach me through my email address: himanshuraj.officials@gmail.com or message me in LinkedIn https://www.linkedin.com/in/himanshurajofficals/ 
+- 📧  You can reach me through my email address: <a href="himanshuraj.officials@gmail.com">himanshuraj.officials@gmail.com </a> or message me in LinkedIn <a href=" https://www.linkedin.com/in/himanshurajofficals/ ">Himanshu Raj</a>
+
+
+
+
+
+              
 
 ## Skills: 
 * ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -44,7 +50,7 @@
  
 <h2 align="left">Social Links:</h2> 
 <div align="center">
-<a href="https://www.linkedin.com/in/himanshurajofficials/"> <img align="center" src="https://i0.wp.com/www.pmolearning.co.uk/wp-content/uploads/2019/08/linkedin-logo.png?ssl=1" height="36" width="160" alt="himanshurajofficials" /></a>
+<a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=himanshurajofficials"> <img align="center" src="https://i0.wp.com/www.pmolearning.co.uk/wp-content/uploads/2019/08/linkedin-logo.png?ssl=1" height="36" width="160" alt="himanshurajofficials" /></a>
 <a href="https://github.com/himanshurajofficials"> <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQduHwLUzYYcR7wU0OcFS2VSVDxIP8efho7Vg&usqp=CAU" height="36" width="160" alt="himanshurajofficials" /></a><br><br>
 
 </div>
