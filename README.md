@@ -10,7 +10,7 @@
 
 - 🤝 Always open to having fun collaborating on building **real world apps or Website**
 
-- 👩🏻 Pronouns **He / Him **
+- 👩🏻 Pronouns **He / Him**
 
 - 🌈 Fun fact **I prefer Tab over space**
 - 📧  You can reach me through my email address: <a href="himanshuraj.officials@gmail.com">himanshuraj.officials@gmail.com </a> or message me in LinkedIn <a href="https://www.linkedin.com/in/himanshurajofficals/">HimanshuRaj</a>
