@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/himanshurajofficials) 
+
 <h1 align="center">Hi there 👋, I'm Himanshu Raj</h1>
 <h3 align="center">A passionate computer programmer and Software Developer from India</h3>
 <h3 align="left">👩🏻‍💻 About Me :</h3>
@@ -49,6 +51,6 @@
 
 <h2 align="left"></h2> 
 
-![Profile views](https://gpvc.arturio.dev/himanshurajofficials) 
+<!-- ![Profile views](https://gpvc.arturio.dev/himanshurajofficials)  -->
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
