@@ -1,4 +1,5 @@
-![Profile views](https://gpvc.arturio.dev/himanshurajofficials) 
+<!-- ![Profile views](https://gpvc.arturio.dev/himanshurajofficials)  -->
+![](https://komarev.com/ghpvc/?username=himanshurajofficials&label=PROFILE+VIEWS&color=blue&style=plastic)
 
 <h1 align="center">Hi there 👋, I'm Himanshu Raj</h1>
 <h3 align="center">A passionate computer programmer and Software Developer from India</h3>
